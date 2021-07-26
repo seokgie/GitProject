@@ -2,3 +2,4 @@
 .project
 .settings/
 WebContent/META-INF/MANIFEST.MF
+WebContent/WEB-INF/lib/
